@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "cn-China"
 site_theme               : "default"
 title                    : "Rui Zhang - About me"
 title_separator          : "-"
@@ -23,11 +23,11 @@ repository               : "zr_academic"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rui Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Candidate in Beijing Normal University"
+  location         : "Shanghai, China"
+  employer         : "Beijing Normal University"
   uri              : # URL
   email            : "none@example.org" 
 
