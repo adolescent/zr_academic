@@ -9,11 +9,12 @@ date: 2023-07-29
 location: "Zhuhai, China"
 ---
 
-<br/><img src='/images/P1A1.jpg'>
 
 This is my first public presentation, poster shows the preliminary analysis of spontaneous actvity on monkey's V1.     
 
-Thanks to my amazing partner Jiayu Wang(right in the picture).   
+<!-- <br/><img src='/images/P1A1.jpg'> -->
+![Thanks to my amazing partner Jiayu Wang(right in the picture).]('/images/P1A1.jpg')    
+
 
 You can find the full poster [here](/files/Poster1.jpeg) .
 
