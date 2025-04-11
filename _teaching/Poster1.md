@@ -4,12 +4,14 @@ collection: teaching
 type: "Posters"
 permalink: /teaching/Poster1
 # venue: "University 1, Department"
-excerpt: "My first public presentation <br/><img src='/images/P1A1.jpg'>"
+# excerpt: "My first public presentation "
 date: 2023-07-29
 location: "Zhuhai, China"
 ---
 
-Poster shows the preliminary analysis of spontaneous actvity on monkey's V1.     
+<br/><img src='/images/P1A1.jpg'>
+
+This is my first public presentation, poster shows the preliminary analysis of spontaneous actvity on monkey's V1.     
 
 Thanks to my amazing partner Jiayu Wang(right in the picture).   
 
