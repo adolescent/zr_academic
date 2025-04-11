@@ -4,7 +4,7 @@ collection: teaching
 type: "Posters"
 permalink: /teaching/Poster1
 # venue: "University 1, Department"
-excerpt: "My first public presentation <br/><img src='/images/P1A1.jpg' alt="drawing" width="50%"/>"
+excerpt: "My first public presentation <br/><img src='/images/P1A1.jpg'>"
 date: 2023-07-29
 location: "Zhuhai, China"
 ---
