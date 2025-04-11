@@ -21,7 +21,7 @@ From 2023, I studied at Institute for Translational Brain Research, Fudan Univer
 
 My future research interests focus on higher-level visual processing, particularly how visual information transforms into semantic representations and conscious perception, and how contextual cues, attention, and learning dynamically shape these neural processes.
 
-Feel free to contact me if you are interested in me or my research!
+Please contact me if you are interested in me or my research!
 
 
 
