@@ -3,8 +3,8 @@ title: "Poster at The 16th Annual Meeting of Chinese Neuroscience Society"
 collection: teaching
 type: "Posters"
 permalink: /teaching/Poster1
-venue: " "
-# excerpt: "My first public presentation "
+venue: "Beijing Normal University"
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2023-07-29
 location: "Zhuhai, China"
 ---
