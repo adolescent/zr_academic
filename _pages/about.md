@@ -19,10 +19,7 @@ During my doctoral research, I employed non-human primate (macaque) models to in
 
 From 2023, I studied at Institute for Translational Brain Research, Fudan University, Shanghai. During these times, I learned how to build up a labatory from start, and learned the basic operation of whole-brain fluorence imaging, ISOI and EEG recording on mice. 
 
-
-
-
-My future interest 
+My future research interests focus on higher-level visual processing, particularly how visual information transforms into semantic representations and conscious perception, and how contextual cues, attention, and learning dynamically shape these neural processes.
 
 Feel free to contact me if you are interested in me or my research!
 
