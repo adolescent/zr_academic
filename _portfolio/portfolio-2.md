@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-![P1](/images/PR21.png)
+![P1](/images/PR21.png)    
 *This is an orientation map of V1 and V2*
 
 
@@ -13,5 +13,5 @@ Intrinsic Signal Optical Imaging (ISOI) is a classical neuroimaging technique th
 
 Critically, the functional maps obtained from ISOI can be aligned with results obtained via two-photon imaging, validating its reliability for studying spatial organization.
 
-![P2](/images/PR22.png)
+![P2](/images/PR22.png)    
 *This is a comparation between ISOI and 2p imaging*
