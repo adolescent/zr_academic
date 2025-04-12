@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+Chinese version [here](/files/CV_cn.pdf)
+
 
 Education
 ======
